@@ -16,7 +16,7 @@ Cyclomatic Complexity Example
 Demonstrates cyclomatic complexity
 }
 \examples{
-linter_ex()
+linter_ex("lint")
 }
 \author{
 Yourself
