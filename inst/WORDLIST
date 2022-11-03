@@ -1,9 +1,9 @@
-Changelog
-Pharma
-cicdworkshop
-strangephrase
 CMD
+Pharma
+ROxygen
+covr
 cyclomatic
-Linter
-lintr
-pkgdown
+devtools
+linter
+strangephrase
+testthat
